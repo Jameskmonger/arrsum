@@ -2,8 +2,6 @@
 
 ## Usage
 
-Usage will be as follows:
-
 ```javascript
 const arrsum = require('arrsum');
 
