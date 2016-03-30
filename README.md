@@ -1,1 +1,5 @@
 # arrsum
+
+## License
+
+[MIT](LICENSE)
