@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Jameskmonger/arrsum#readme",
   "devDependencies": {
-    "modunit": "^0.1.4-RC2"
+    "modunit": "^0.1.4-RC3"
   }
 }
