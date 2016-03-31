@@ -1,5 +1,7 @@
 # arrsum
 
+An arrsum way to pluck a value from each object in an array.
+
 ## Usage
 
 ```javascript
