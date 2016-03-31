@@ -1,7 +1,7 @@
 {
   "name": "arrsum",
   "version": "0.0.3",
-  "description": "",
+  "description": "An arrsum way to pluck a value from each object in an array",
   "main": "index.js",
   "scripts": {
     "test": "modunit './*.spec.js'"
