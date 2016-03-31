@@ -2,6 +2,8 @@
 
 An arrsum way to pluck a value from each object in an array.
 
+![Everything is arrsum](everything-is-arrsum.jpg)
+
 ## Usage
 
 ```javascript
