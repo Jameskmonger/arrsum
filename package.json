@@ -6,6 +6,9 @@
   "scripts": {
     "test": "modunit arrsum.spec.js"
   },
+  "files": [
+    "index.js"
+  ],
   "author": "James Monger <jameskmonger@hotmail.co.uk> (http://jamesmonger.com)",
   "license": "MIT",
   "repository": {
