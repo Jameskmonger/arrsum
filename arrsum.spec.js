@@ -23,3 +23,16 @@ test('it returns 0 if property doesn\'t exist', (t, input, property) => {
         [ { count: 17 }, { count: 17 } ], 'also-non-existent'
     ]
 ]);
+
+test('it counts properties when all match', (t, input, property, output) => {
+    let total = arrsum(input, property);
+
+    t.assert.equal(output, total);
+}, [
+    [
+        [ { value: 3 }, { value: 2} ], 'value', 5
+    ],
+    [
+        [ { count: 17 }, { count: 17 } ], 'count', 34
+    ]
+])
