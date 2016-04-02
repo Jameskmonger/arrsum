@@ -4,7 +4,7 @@
   "description": "An arrsum way to pluck a value from each object in an array",
   "main": "index.js",
   "scripts": {
-    "test": "modunit './*.spec.js'"
+    "test": "modunit \"./*.spec.js\""
   },
   "author": "James Monger <jameskmonger@hotmail.co.uk> (http://jamesmonger.com)",
   "license": "MIT",
