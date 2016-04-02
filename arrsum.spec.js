@@ -35,4 +35,4 @@ test('it counts properties when all match', (t, input, property, output) => {
     [
         [ { count: 17 }, { count: 17 } ], 'count', 34
     ]
-])
+]);
