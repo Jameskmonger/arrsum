@@ -36,3 +36,16 @@ test('it counts properties when all match', (t, input, property, output) => {
         [ { count: 17 }, { count: 17 } ], 'count', 34
     ]
 ]);
+
+test('it counts properties when some match', (t, input, property, output) => {
+    let total = arrsum(input, property);
+
+    t.assert.equal(output, total);
+}, [
+    [
+        [ { value: 3 }, { value: 2}, { other: 4 } ], 'value', 5
+    ],
+    [
+        [ { junk: 17 }, { rubbish: 50}, { count: 17 }, { count: 3 } ], 'count', 20
+    ]
+]);
