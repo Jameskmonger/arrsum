@@ -1,6 +1,6 @@
 {
   "name": "arrsum",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "An arrsum way to pluck a value from each object in an array",
   "main": "index.js",
   "scripts": {
