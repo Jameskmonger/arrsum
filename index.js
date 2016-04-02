@@ -1,7 +1,5 @@
 'use strict';
 
-var forkeys = require('forkeys-compat');
-
 module.exports = function (array, property) {
     var total = 0;
 

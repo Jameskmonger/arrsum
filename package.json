@@ -18,8 +18,5 @@
   "homepage": "https://github.com/Jameskmonger/arrsum#readme",
   "devDependencies": {
     "modunit": "^0.2.0"
-  },
-  "dependencies": {
-    "forkeys-compat": "^1.0.1"
   }
 }
