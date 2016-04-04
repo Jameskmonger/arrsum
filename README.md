@@ -2,7 +2,7 @@
 
 An arrsum way to pluck a value from each object in an array.
 
-[This is just an experiment and is significantly slower than other methods.](https://github.com/Jameskmonger/arrsum/issues/2]
+[This is just an experiment and is significantly slower than other methods.](https://github.com/Jameskmonger/arrsum/issues/2)
 
 ![Everything is arrsum](everything-is-arrsum.jpg)
 
